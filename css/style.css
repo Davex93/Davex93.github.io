@@ -1,0 +1,54 @@
+
+
+body {
+	padding-top: 55px ;
+}
+
+#main {
+background: url('../images/coder.jpg') no-repeat center center;
+background-size:cover;
+
+height: 1000px;
+color: white;
+
+
+}
+
+
+.base,h1{
+	color: #207ad1 !important;
+
+}
+.calltoaction {
+	color: #FFA016 !important;
+}
+
+.white,portfolio{
+background-color: #6CA8E1!important;
+}
+/*.black,p{
+	color: #074A8A !important;
+
+}
+
+.heading,h1{
+font-family: 'Abril Fatface', cursive;
+
+}
+.body,p{
+	font-family: 'Droid Sans', sans-serif;
+}
+*/
+
+
+#name{
+	font-size :100px;
+	z-index: 2;
+	text-align: center;
+	top: 300px;
+
+	 font-family: 'Droid Sans', sans-serif;
+	 color: 	#6CA8E1;
+	 left :-15%;
+
+}
